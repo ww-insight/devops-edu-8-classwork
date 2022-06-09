@@ -1,0 +1,94 @@
+firms:
+  mechta:
+    departments:
+      - 1:
+        employees:
+          - Olya:
+            id: 1
+            job: buh
+          - Olya:
+            id: 2
+            job: buh
+          - Olya:
+            id: 3
+            job: buh
+          - Olya:
+            id: 4
+            job: buh
+          - Dmityi:
+            id: 5
+            job: Unknown
+          - Dmityi:
+            id: 6
+            job: Unknown
+          - Dmityi:
+            id: 7
+            job: Unknown
+          - Dmityi:
+            id: 7
+            job: Unknown
+          - Ivan:
+            id: 8
+            job: Unknown
+          - Ivan:
+            id: 9
+            job: Unknown
+      - 2:
+        employees:
+          - Roman:
+            id: 11
+            job: layer
+          - Roman:
+            id: 12
+            job: layer
+          - Roman:
+            id: 13
+            job: layer
+          - Roman:
+            id: 14
+            job: layer
+          - Maxim:
+            id: 15
+            job: driver
+          - Maxim:
+            id: 16
+            job: driver
+      - 3:
+        employees:
+          - Olya:
+            id: 10
+            job: layer
+          - Ivan:
+            id: 17
+            job: builder
+          - Nikola:
+            id: 18
+            job: builder
+      - 4/5:
+        employees:
+          - Uilya:
+            id: 19
+            job: documentor
+            age: 30+
+          - Uilya:
+            id: 20
+            job: documentor
+            age: 30+
+          - Uilya:
+            id: 21
+            job: documentor
+            age: 30+
+          - Uilya:
+            id: 22
+            job: documentor
+            age: 30+
+          - Uilya:
+            id: 23
+            job: documentor
+            age: 30+
+      - 6:
+        employees:
+          - Igor Victorovich:
+            id: 23
+            job: security director
+            age: 50+
